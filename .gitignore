@@ -1,0 +1,4 @@
+unused_objects.txt
+*.xml
+__pycache__/
+.venv/
